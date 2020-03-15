@@ -1,0 +1,43 @@
+# jemdoc: menu{MENU}{index.html}
+= Yi Liu
+
+~~~
+{}{img_left}{yiliu.jpg}{alt text}{180px}{222.2px}{}
+Ph.D. Student \n 
+Advisor: [https://xyuancs.github.io/ Xingliang Yuan], [https://yifengzcs.github.io/index.html Yifeng Zheng], and [https://scholar.google.ca/citations?user=ge6zzwIAAAAJ&hl=en Surya Nepal] \n
+[https://www.monash.edu/it Faculty of Information Technology] \n
+[https://www.monash.edu/ Monash University] and [https://data61.csiro.au/ Data 61]  \n
+Contact: [97liuyi@ieee.org 97liuyi@ieee.org] \n
+[https://scholar.google.com/citations?user=RNNNv7QAAAAJ&hl=en&authuser=1 Google Scholar]
+~~~
+
+== Short Bio 
+I received the B.Eng degree from the Heilongjiang University, China in 2019 *(Early Graduation Base On Academic Excellence)*. I am now pursuing his Ph.D. degree in Monash University, Australia. 
+
+== News 
+~~~
+- \[05-01-2020\] I receive a full PhD scholarship from Data 61. Thank you, Prof. Nepal, Dr. Yuan, and Dr. Zheng! See you in Australia!
+- \[10-12-2019\] I will join CAIRI Lab of Westlake University as visiting student, and my advisor is *IEEE FELLOW* [https://www.westlake.edu.cn/info/1781/3894.htm Prof. Stan Z. Li].
+- \[04-12-2019\] "PPGAN: Privacy-Preserving Generative Adversarial Network" accepted by *IEEE ICPADS 2019*.
+- \[05-10-2019\] "Dominant dataset selection algorithms for electricity consumption time-series data analysis based on affine transformation" accepted by *IEEE Internet of Things Journal*.
+- \[10-07-2019\] I will join James Lab of Southern University of Science and Technology as a research assistant, and my advisor is [https://jamesyu.me/about.html Dr. James J.Q. Yu].
+- \[10-03-2019\] I get an offer to participate in "[https://cmmrs.mpi-sws.org/ The Cornell, Maryland, Max Planck-SWS Pre-doctoral Research School 2019]", see you in Germany!
+- \[01-01-2019\] I will do a Winnter internship at CNCL Lab, Nanyang Technological University, and my advisor is Dr. Jun Zhao.
+~~~
+
+== Education 
+- Ph.D., Faculty of Information Technology, Monash University, Clayton, Melbourne, Australia. Sept. 2020 - Present
+- B.E., School of Data Science and Technology, Heilongjiang University, Harbin, China, Aug. 2016 - Sept. 2019
+
+== Research Interests 
+- Privacy and Security (federated learning and blockchain)
+- Edge AI and Computing (federated learning, communication-efficient edge learning)
+- Data Science and AI (high-dimensional estimation, learning to optimize, graph neural networks)
+- Wireless Communications and Networking (5G and beyond, IoT)
+
+== Selected Publications
+- Privacy and Security
+-- \[ICPADS'19\] *Yi Liu*, Jialiang Peng, James J.Q. Yu, Yi Wu, "[https://ieeexplore.ieee.org/document/8975823 PPGAN: Privacy-preserving Generative Adversarial Network], " 2019 IEEE 25th International Conference on Parallel and Distributed Systems (ICPADS), Tianjin, China, 2019, pp. 985-989.
+-  Data Science and AI
+-- \[IEEE IOTJ\] Wu Yi, *Yi Liu*, Syed Hassan Ahmed, Jialiang Peng, Ahmed A. Abd El-Latif. "[https://ieeexplore.ieee.org/document/8863967/ Dominant Dataset Selection Algorithms for Electricity Consumption Time-Series Data Analysis Based on Affine Transformation]," in IEEE Internet of Things, in press.
+-- \[IEEE ACCESS\] Chenhan Zhang, James J. Q. Yu and *Yi Liu*, "[https://ieeexplore.ieee.org/document/8903252/ Spatial-Temporal Graph Attention Networks: A Deep Learning Approach for Traffic Forecasting]," in IEEE Access, vol. 7, pp. 166246-166256, 2019.

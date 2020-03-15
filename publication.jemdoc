@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{publication.html}
+= Publications 
+[https://scholar.google.com/citations?user=RNNNv7QAAAAJ&hl=en&authuser=1 \[Google Scholar\]]
+- Journal Papers
+. \[IEEE TVT\] *Yi Liu*, Jiawen Kang, James J.Q. Yu. "Reliable and Efficient Traffic Flow Prediction for Internet of Vehicles using Blockchain Empowered Federated Learning." IEEE Transactions on Vehicular Technology, (Coming soon..).
+. \[IEEE IoTJ\] *Yi Liu*, Jiangtian Nie, Xuandi Li, Syed Hassan Ahmed, Wei Yang Bryan Lim, Chunyan Miao. "Federated Learning in the Sky: Aerial-Ground Air Quality Sensing Framework with UAV Swarms." IEEE Internet of Things Journal, (Under View).
+. \[IEEE IoTJ\] *Yi Liu*, James J.Q. Yu, Jiawen Kang, Niyato Dusit, Shuyu Zhang. "Privacypreserving Traffic Flow Prediction: A Federated Learning Approach." IEEE Internet of Things Journal, (Major Revision).
+. \[IEEE WCM\] *Yi Liu*, Jialiang Peng, Jiawen Kang, Iliyasu Abdullah, Niyato Dusit, Ahmed A.Abd ElLatif. "A Secure Federated Learning Framework for 5G Networks." IEEE Wireless Communications Magazine, (Major Revision).
+. \[IEEE IOTJ\] Wu Yi, *Yi Liu*, Syed Hassan Ahmed, Jialiang Peng, Ahmed A. Abd El-Latif. "[https://ieeexplore.ieee.org/document/8863967/ Dominant Dataset Selection Algorithms for Electricity Consumption Time-Series Data Analysis Based on Affine Transformation]." IEEE Internet of Things, in press.
+. \[IEEE ACCESS\] Chenhan Zhang, James J. Q. Yu and *Yi Liu*, "[https://ieeexplore.ieee.org/document/8903252/ Spatial-Temporal Graph Attention Networks: A Deep Learning Approach for Traffic Forecasting]," in IEEE Access, vol. 7, pp. 166246-166256, 2019.
+- Conference Papers
+. \[ITSC'20\] *Yi Liu*, Shuyu Zhang, Chenhan Zhang, James J.Q. Yu. "FedGRU: Privacy-preserving Traffic Flow Prediction via Federated Learning." The 23rd IEEE International Conference on Intelligent Transportation Systems 2020, (under view).
+. \[ICPADS'19\] *Yi Liu*, Jialiang Peng, James J.Q. Yu, Yi Wu. "[https://ieeexplore.ieee.org/document/8975823 PPGAN: Privacy-preserving Generative Adversarial Network], " 2019 IEEE 25th International Conference on Parallel and Distributed Systems (ICPADS), Tianjin, China, 2019, pp. 985-989.
+. \[BDET'18\] *Yi Liu*, Jiawen Peng, and Zhihao Yu. "[https://dl.acm.org/doi/abs/10.1145/3297730.3297743 Big Data Platform Architecture under The Background of Financial Technology: In The Insurance Industry As An Example]." In Proceedings of the 2018 International Conference on Big Data Engineering and Technology (BDET 2018). Association for Computing Machinery, New York, NY, USA, 31–35.
+. \]ICCTEC'17\] *Yi Liu* and Yi Wu, "[https://ieeexplore.ieee.org/document/8789297 Decision Tree Model in the Diagnosis of Breast Cancer]," 2017 International Conference on Computer Technology, Electronics and Communication (ICCTEC), Dalian, China, 2017, pp. 176-179.
+

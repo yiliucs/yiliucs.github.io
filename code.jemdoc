@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{code.html}
+= Code
+
+== Privacy and Security
+
+- [https://github.com/niklausliu/PPGANs-Privacy-preserving-GANs PPGANs: Privacy-preserving Generative Adversarial Networks]
+
+- [https://github.com/niklausliu/TF_FedGRU_demo FedGRU: Federated Learning-based Gated Recurrent Unit Neural Network Framework for Traffic Flow Prediction]
+- [https://github.com/niklausliu/differential_privacy Differential Private Distributed machine learning]
+
+== Tools
+- [https://github.com/niklausliu/PicSplitTool PicSplitTool]
+
+
