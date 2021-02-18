@@ -2,7 +2,7 @@
 = Publications 
 [https://scholar.google.com/citations?user=RNNNv7QAAAAJ&hl=en&authuser=1 \[Google Scholar\]]
 - Preprints
-. \[*WWW'21*\] *Yi Liu*, Xingliang Yuan, Ruihui Zhao, Yifeng Zheng, and Yefeng Zheng. "[https://arxiv.org/abs/2012.04432 RC-SSFL: Towards Robust and Communication-efficient Semi-supervised Federated Learning System]." arXiv preprint arXiv:2012.04432 (2020).
+. \[*KDD'21*\] *Yi Liu*, Xingliang Yuan, Ruihui Zhao, Yifeng Zheng, and Yefeng Zheng. "[https://arxiv.org/abs/2012.04432 Practical and Robust Semi-supervised Federated Learning: Algorithm and System Design]." arXiv preprint arXiv:2012.04432 (2020).
 . \[*ACM TOIT*\] *Yi Liu*, Ruihui Zhao, Jiawen Kang, Abdulsalam Yassine, Dusit Niyato, and Jialiang Peng. "[https://arxiv.org/abs/2012.04436 Towards Communication-efficient and Attack-resistant Federated Edge Learning for Industrial Internet of Things]." arXiv preprint arXiv:2012.04436 (2020).
 - Journal Papers
 . \[*IEEE IOTJ*\] *Yi Liu*, James Jianqiao Yu, Jiawen Kang, Dusit Niyato and Shuyu Zhang, "[https://ieeexplore.ieee.org/abstract/document/9082655 Privacy-Preserving Traffic Flow Prediction: A Federated Learning Approach]," in IEEE Internet of Things Journal, vol. 7, no. 8, pp. 7751-7763, Aug. 2020, doi: 10.1109/JIOT.2020.2991401.
@@ -13,7 +13,7 @@
 . \[*IEEE IOTJ*\] Wu Yi, *Yi Liu*, Syed Hassan Ahmed, Jialiang Peng, Ahmed A. Abd El-Latif, "[https://ieeexplore.ieee.org/document/8863967 Dominant Data Set Selection Algorithms for Electricity Consumption Time-Series Data Analysis Based on Affine Transformation]," in IEEE Internet of Things Journal, vol. 7, no. 5, pp. 4347-4360, May 2020, doi: 10.1109/JIOT.2019.2946753.
 . \[*IEEE ACCESS*\] Chenhan Zhang, James J. Q. Yu and *Yi Liu*, "[https://ieeexplore.ieee.org/document/8903252/ Spatial-Temporal Graph Attention Networks: A Deep Learning Approach for Traffic Forecasting]," in IEEE Access, vol. 7, pp. 166246-166256, 2019.
 - Conference Papers
-. \[*Globecom'20*\] *Yi Liu*, Neeraj Kumar, Zehui Xiong, Wei Yang Bryan Lim, Jiawen Kang, Dusit Niyato, "Communication-Efficient Federated Learning for Anomaly Detection in Industrial Internet of Things," Proc. IEEE Global Communications Conference, Taipei, Dec. 2020
+. \[*Globecom'20*\] *Yi Liu*, Neeraj Kumar, Zehui Xiong, Wei Yang Bryan Lim, Jiawen Kang, Dusit Niyato, "[https://ieeexplore.ieee.org/document/9348249 Communication-Efficient Federated Learning for Anomaly Detection in Industrial Internet of Things]," Proc. IEEE Global Communications Conference, Taipei, Dec. 2020
 . \[*ITSC'20*\] *Yi Liu*, Shuyu Zhang, Chenhan Zhang and James J. Q. Yu, "[https://ieeexplore.ieee.org/document/9294453 FedGRU: Privacy-preserving Traffic Flow Prediction via Federated Learning]," 2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC), Rhodes, Greece, 2020, pp. 1-6, doi: 10.1109/ITSC45102.2020.9294453.
 . \[*ICPADS'20*\] Yuanshao Zhu, Shuyu Zhang, *Yi Liu*, Dusit Niyato, and James J. Q. Yu. "Robust Federated Learning Approach for Travel Mode Identification from Non-IID GPS Trajectories," 2020 IEEE 26th International Conference on Parallel and Distributed Systems (ICPADS), Hong Kong, China, 2020.
 . \[*ICPADS'19*\] *Yi Liu*, Jialiang Peng, James J.Q. Yu, Yi Wu. "[https://ieeexplore.ieee.org/document/8975823 PPGAN: Privacy-preserving Generative Adversarial Network], " 2019 IEEE 25th International Conference on Parallel and Distributed Systems (ICPADS), Tianjin, China, 2019, pp. 985-989.
