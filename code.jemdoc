@@ -3,10 +3,12 @@
 
 == Privacy and Security
 
+- [https://github.com/yiliucs/Federated-learning-for-internet-of-medical-of-things Federated Learning for Internet of Medical of Things: A Comprehensive Survey]
+- [https://github.com/yiliucs/Secure-aggregation-for-federated-learning Aggregation Service for Federated Learning: An Efficient, Secure, and More Resilient Realization]
+- [https://github.com/yiliucs/Federated-Learning-for-Traffic-Sign-Recognition Federated Learning for Traffic Sign Recognition]
 - [https://github.com/niklausliu/PPGANs-Privacy-preserving-GANs PPGANs: Privacy-preserving Generative Adversarial Networks]
-
 - [https://github.com/niklausliu/TF_FedGRU_demo FedGRU: Federated Learning-based Gated Recurrent Unit Neural Network Framework for Traffic Flow Prediction]
-- [https://github.com/niklausliu/differential_privacy Differential Private Distributed machine learning]
+- [https://github.com/niklausliu/differential_privacy Differential Private Distributed Machine Learning]
 
 == Tools
 - [https://github.com/niklausliu/PicSplitTool PicSplitTool]
