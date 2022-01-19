@@ -16,18 +16,16 @@ He received the B.Eng degree from the Heilongjiang University, China in 2019 *(E
 
 == News 
 ~~~
-- \[18-11-2020\] I will join Cong's Group of City University of Hong Kong as a research assistant, and my advisor is [https://scholar.google.com/citations?user=wRa_lOEAAAAJ&hl=en Prof. Cong Wang].
-- \[11-06-2020\] I will join Tencent Jarvis Lab and my advisor is [https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=en&authuser=2 Dr. Yefeng Zheng].
-- \[05-01-2020\] I receive a full PhD scholarship from Data61. Thank you, Prof. Nepal and Dr. Yuan! See you in Australia!
-- \[10-07-2019\] I will join James Lab of Southern University of Science and Technology as a research assistant, and my advisor is [https://jamesyu.me/about.html Dr. James J.Q. Yu].
-- \[10-03-2019\] I get an offer to participate in "[https://cmmrs.mpi-sws.org/ The Cornell, Maryland, Max Planck-SWS Pre-doctoral Research School 2019]", see you in Germany!
+- \[18-11-2020\] Yi joined Cong's Group of City University of Hong Kong as a research assistant and his advisor is [https://scholar.google.com/citations?user=wRa_lOEAAAAJ&hl=en Prof. Cong Wang].
+- \[11-06-2020\] Yi was an intern at Tencent Jarvis Lab and his advisor is [https://scholar.google.com/citations?user=vAIECxgAAAAJ&hl=en&authuser=2 Dr. Yefeng Zheng].
+- \[10-03-2019\] Yi got an offer to participate in "[https://cmmrs.mpi-sws.org/ The Cornell, Maryland, Max Planck-SWS Pre-doctoral Research School 2019]", see you in Germany!
 ~~~
 
 == Education 
-- B.E., School of Data Science and Technology, Heilongjiang University, Harbin, China, Aug. 2016 - Sept. 2019
+- B.E., School of Data Science and Technology, Heilongjiang University, Harbin, China, Aug. 2016 - Sept. 2019 *(Early Graduation Base On Academic Excellence)*.
 
 == Research Interests 
-- Privacy and Security (federated learning and machine unlearning)
+- Privacy and Security (AI security, federated learning, and machine unlearning)
 - Edge AI and Computing (federated learning, communication-efficient edge learning)
 - Data Science and AI (data pricing, high-dimensional estimation, and learning to optimize)
 - Wireless Communications and Networking (5G and beyond, AIoT)
@@ -35,12 +33,7 @@ He received the B.Eng degree from the Heilongjiang University, China in 2019 *(E
 == Selected Publications
 - Privacy and Security
 -- \[*INFOCOM'22*\] *Yi Liu*, Lei Xu, Xingliang Yuan, Cong Wang, Bo Li, "The Right to be Forgotten in Federated Learning: An Efficient Realization with Rapid Retraining", in Proc. of INFOCOM, 2022.
-- Edge AI and Computing
--- \[*IEEE IoTJ*] *Yi Liu*, Sahil Garg, Jiangtian Nie, Yang Zhang, Zehui Xiong, Jiawen Kang, M. Shamim Hossain, "[https://ieeexplore.ieee.org/document/9146846 Deep Anomaly Detection for Time-series Data in Industrial IoT: A Communication-Efficient On-device Federated Learning Approach]," in IEEE Internet of Things Journal, vol. 8, no. 8, pp. 6348-6358, 15 April, 2021. (*ESI Highly Cited Paper*)
--  Data Science and AI
--- \[*IEEE IoTJ*\] *Yi Liu*, James J.Q.Yu, Jiawen Kang, Dusit Niyato and Shuyu Zhang, "[https://ieeexplore.ieee.org/abstract/document/9082655 Privacy-Preserving Traffic Flow Prediction: A Federated Learning Approach]," in IEEE Internet of Things Journal.
-- Wireless Communications and Networking
--- \[*IEEE TNSE*\] *Yi Liu*, Yuanshao Zhu, James J.Q. Yu, "[https://arxiv.org/abs/2110.07567 Resource-constrained Federated Edge Learning with Heterogeneous Data: Formulation and Analysis]," in IEEE Transactions on Network Science and Engineering.
+
 
 == Some Useful Links
 - Computer Security Conference Ranking and Statistic
