@@ -36,7 +36,7 @@ He received the B.Eng degree from the Heilongjiang University, China in 2019 *(E
 == Selected Publications
 - Privacy and Security
 -- \[*INFOCOM'22*\] *Yi Liu*, Lei Xu, Xingliang Yuan, Cong Wang, and Bo Li, "[https://ieeexplore.ieee.org/document/9796721 The Right to be Forgotten in Federated Learning: An Efficient Realization with Rapid Retraining]", in Proc. of INFOCOM, 2022.
--- \[\*KDD'24*\] *Yi Liu*, Cong Wang, and Xingliang Yuan, "BadSampler: Harnessing the Power of Catastrophic Forgetting to Poison Byzantine-robust Federated Learning", in Proc. of KDD, 2024.
+-- \[*KDD'24*\] *Yi Liu*, Cong Wang, and Xingliang Yuan, "BadSampler: Harnessing the Power of Catastrophic Forgetting to Poison Byzantine-robust Federated Learning", in Proc. of KDD, 2024.
 - Federated Learning
 -- \[*IEEE IoTJ*] *Yi Liu*, Sahil Garg, Jiangtian Nie, Yang Zhang, Zehui Xiong, Jiawen Kang, and M. Shamim Hossain, "[https://ieeexplore.ieee.org/document/9146846 Deep Anomaly Detection for Time-series Data in Industrial IoT: A Communication-Efficient On-device Federated Learning Approach]," in IEEE Internet of Things Journal, vol. 8, no. 8, pp. 6348-6358, 15 April, 2021. (*IEEE ComSoc Outstanding Paper Award*)
 
